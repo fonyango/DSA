@@ -61,3 +61,4 @@ def filter_list(my_list):
     return num_list
 
 print(filter_list([1,2,'a','b']))
+print(filter_list(["Frank",23,45,"Edu",76,"Kalisha",90,63,82]))
